@@ -1,0 +1,19 @@
+.verificationContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: transparent; /* Make the background transparent */
+}
+
+.iconContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0; /* Remove the padding */
+}
+
+.checkIcon {
+    color: green;
+    font-size: 50px;
+}
